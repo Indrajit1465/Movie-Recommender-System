@@ -38,6 +38,13 @@ The project requires the following dependencies:
 - `nltk`: The Natural Language Toolkit, which provides tools for working with human language data, essential for NLP tasks.
 - `sklearn`: A comprehensive machine learning library that offers tools for building and evaluating machine learning models.
 
+## NOTE
+
+1. **Dataset**: The dataset used for this project can be found at [TMDB Movie Metadata on Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata). Make sure to download it and place it in the appropriate directory for the project to work correctly.
+
+2. **File Size Limitation**: The `similarity.pkl` file could not be uploaded due to storage limits. To generate this file, please run the code in the `Movies-Recommender-System` directory. This will create the necessary `similarity.pkl` file for the recommendation algorithm to function properly.
+
+
 
 ## How to Use
 
